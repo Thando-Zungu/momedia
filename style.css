@@ -213,7 +213,7 @@ h3{
 .s-header{
 	height:50vh;
 	width: 100%;
-	background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/mowgee.jpg);
+	background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(mowgee.jpg);
 	background-position:center;
 	background-size: cover;
 	text-align: center;
@@ -247,7 +247,7 @@ padding-bottom:50px;
 .a-header{
 	height:50vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/zulu3.jpg);
+	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url();
 	background-position:center;
 	background-size: cover;
 	text-align: center;
@@ -258,7 +258,7 @@ padding-bottom:50px;
 .sub-header{
 	height:50vh;
 	width: 100%;
-	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/zulu3.jpg);
+	background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url();
 	background-position:center;
 	background-size: cover;
 	text-align: center;
